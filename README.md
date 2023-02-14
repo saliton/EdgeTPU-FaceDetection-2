@@ -2,7 +2,7 @@
 
 ## １．今回やること
 
-[前回の記事](https://www.soliton-cyber.com/blog/edgetpu2)では、顔認識モデルとして学習済みのFaceNetモデル：FaceNet by Hiroki Taniai[[1]](https://github.com/nyoki-mtl/keras-facenet)を使用することに決まりました。
+[前回の記事（EdgeTPUで顔認証してみる～方式編その２）](https://qiita.com/saliton/items/1ed98576889f743df4de)では、顔認識モデルとして学習済みのFaceNetモデル：FaceNet by Hiroki Taniai[[1]](https://github.com/nyoki-mtl/keras-facenet)を使用することに決まりました。
 今回は、PCにてFaceNetを実装して、顔エンコーディング（Face Encoding）の結果、正しい埋め込みベクトルが出力されることを確認します。
 
 >参考文献：  
